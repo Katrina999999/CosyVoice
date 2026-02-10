@@ -36,3 +36,4 @@ wget==3.2
 fastapi==0.115.6
 fastapi-cli==0.0.4
 WeTextProcessing==1.0.3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
